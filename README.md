@@ -69,11 +69,4 @@ Para reexecutar um notebook de ponta a ponta pela linha de comando (útil para c
 python -m jupyter nbconvert --to notebook --execute --inplace notebooks/quarta_etapa.ipynb
 ```
 
-## Entregáveis do Tech Challenge
 
-- [x] Entendimento do negócio (`notebooks/primeira_etapa.ipynb`)
-- [x] Definição da target (`notebooks/segunda_etapa.ipynb`)
-- [x] EDA com foco em negócio (`notebooks/terceira_etapa.ipynb`)
-- [x] Modelo preditivo opcional, com pipeline completo (`notebooks/quarta_etapa.ipynb`)
-- [x] Apresentação executiva (`reports/apresentacao_executiva.html`)
-- [ ] Vídeo executivo (até 5 minutos)
